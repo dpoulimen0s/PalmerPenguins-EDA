@@ -21,7 +21,7 @@ The exploratory data analysis includes the following components:
 The analysis is presented in an R Markdown document. To reproduce the analysis, follow these steps:
 
 1. Clone this repository to your local machine.
-2. Open the R Markdown document (`penguin_analysis.Rmd`) in an RStudio.
+2. Open the R Markdown document (`Project_Report_Dimitrios_Poulimenos_200291237.Rmd`) in an RStudio.
 3. Knit the document to generate the final report.
 
 ## Results

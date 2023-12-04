@@ -4,7 +4,7 @@ This exploratory data analysis report is part of a statistics assignment for a M
 
 ## Objective
 
-The objective of this analysis is to perform exploratory data analysis on the penguin data, including graphical and numerical summaries. Additionally, we aim to estimate probabilities/proportions for the penguin population by fitting a probability distribution to the data. We will also explore the variables that best distinguish between male and female penguins and investigate if the island of origin has a significant impact on physical characteristics.
+The objective of this analysis is to perform exploratory data analysis on the penguin data, including graphical and numerical summaries. Additionally, I aim to estimate probabilities/proportions for the penguin population by fitting a probability distribution to the data. I will also explore the variables that best distinguish between male and female penguins and investigate if the island of origin has a significant impact on physical characteristics.
 
 ## Exploratory Data Analysis
 

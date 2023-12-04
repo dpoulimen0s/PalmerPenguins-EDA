@@ -1,4 +1,4 @@
-# Exploratory Data Analysis Report on Palmer Penguins
+# Statistical Analysis on Palmer Penguins
 
 This exploratory data analysis report is part of a statistics assignment for my Master's degree at Newcastle University. The data used in this analysis is from the Palmer Station in Antarctica, focusing on the Palmer Long-Term Ecological Research (LTER) study area and specifically examining a sample of 200 penguins.
 
